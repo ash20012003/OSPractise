@@ -7,6 +7,6 @@
 #include <stdlib.h> <br>
 #include <sys/wait.h> <br>
 #include <sys/stat.h> <br>
-#include <sys/type.h> <br>
+#include <sys/types.h> <br>
 #include <errno.h> <br>
 #include <pthread.h> <br>
