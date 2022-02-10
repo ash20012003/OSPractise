@@ -1,12 +1,12 @@
 # OSPractise
 ## This repository is for practicing OS related coding questions
-The header files generally required are 
-#include <stdio.h>
-#include <unistd.h>
-#include <string.h>
-#include <stdlib.h>
-#include <sys/wait.h>
-#include <sys/stat.h>
-#include <sys/type.h>
-#include <errno.h>
-#include <pthread.h>
+The header files generally required are <br>
+#include <stdio.h> <br>
+#include <unistd.h> <br>
+#include <string.h> <br>
+#include <stdlib.h> <br>
+#include <sys/wait.h> <br>
+#include <sys/stat.h> <br>
+#include <sys/type.h> <br>
+#include <errno.h> <br>
+#include <pthread.h> <br>
