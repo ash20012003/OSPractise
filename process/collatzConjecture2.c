@@ -1,3 +1,12 @@
+/*
+Inorder to run this program in the shell, run the following command :
+
+gcc collatzConjecture2.c -o collatz -lrt
+./collatz {number greater than 1}
+
+lrt option is required to run this correctly 
+
+*/
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <stdio.h>
