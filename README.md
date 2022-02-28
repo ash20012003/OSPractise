@@ -1,4 +1,4 @@
-# OSPractise
+# OSPractice
 ## This repository is for practicing OS related coding questions
 ### The header files generally required are 
 #include <time.h><br>
