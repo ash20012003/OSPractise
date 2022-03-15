@@ -1,10 +1,3 @@
-/*
- * @author  PashalisTsirts
- * @create  ‎5/25/2021, ‏‎‏‎5:32:50
- * @name Greedy_Algorithms.c
- */
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
